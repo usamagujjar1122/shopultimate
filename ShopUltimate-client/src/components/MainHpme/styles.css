@@ -1,0 +1,13 @@
+.css-x2f7gg-MuiTreeView-root {
+  height: auto !important;
+  color: #4b5563 !important;
+}
+.css-1g86id8-MuiTreeItem-content .MuiTreeItem-label {
+  /* font-weight: bold !important; */
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  padding: 8px 0;
+}
+.css-1g86id8-MuiTreeItem-content .MuiTreeItem-iconContainer{
+  display:none !important;
+}
